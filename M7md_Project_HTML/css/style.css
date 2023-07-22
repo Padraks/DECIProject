@@ -1,0 +1,26 @@
+h1 {
+    color: #6528F7 ;
+    text-align: center;
+  }
+  
+p {
+    font-family: verdana;
+    font-size: 20px;
+    color: #c495f7;
+  }
+
+h2 {
+  color: #A076F9;
+}
+
+hr { 
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 0em;
+  margin-left: 1;
+  margin-right: 0;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #7e65b1;
+  width: 56.5%;
+} 
